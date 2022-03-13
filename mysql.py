@@ -15,6 +15,8 @@ try:
     print("connected to latest!")
 except:
     print("error in connection!")
+
+    #test git command
     
 
 ####Member####
